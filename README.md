@@ -129,7 +129,7 @@ Negative quantities are described as **returns/cancellations** because the avail
 
 AI aggregated the data by date and plotted the three measures across the full 2009–2011 period.
 
-> **[ADD FIGURE: Daily Sales and Revenue Trend (2009–2011)]**
+> ![Daily Sales and Revenue Trend (2009–2011)](images/Daily Sales and Revenue Trend (2009–2011).png)
 
 Daily performance varied substantially, with both positive sales spikes and large negative events.
 
